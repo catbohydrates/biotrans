@@ -8,7 +8,11 @@
     <title>Biotrans - Protecting your hardware.</title>
 </head>
 <body>
-    <?php include "header.html";?>
+    <header>
+    <h2>Biotrans Pole Sleeves <p id="1-2"><em>Environmentally Friendly Pole Sleeves</em></p></h2>
+    <img src="Screenshot 2024-11-12 at 23.47.37.png" alt="">
+    <h4><em>Preserving Timber Poles and Fencing for a “lifetime”</em></h4>
+</header>
     <blockquote>
     <em>Preservative loss followed by decay resulting in costly pole failure is stopped by the BIOTRANS POLE SLEEVE. Easy to use, this internationally acclaimed and patented product is the genuine environmental answer to pole failure.
     </em></blockquote>

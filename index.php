@@ -2,8 +2,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/new.css">
-    <link rel="stylesheet" href="css/glowin.css">
+    <link rel="stylesheet" href="new.css">
+    <link rel="stylesheet" href="glowin.css">
     <script src="https://kit.fontawesome.com/a8dd98c2e3.js" crossorigin="anonymous"></script>
     <title>Biotrans - Protecting your hardware.</title>
 </head>
@@ -131,7 +131,7 @@ Our proposed alternative is straightforward: it’s safer and doesn’t introduc
 The real test, however, has been with utility poles, where the BPS has been in service for over 30 years. These utility poles are exposed to harsh conditions, including the intense decay that happens in tropical and subtropical climates, and yet the BPS-treated poles have outperformed non-BPS poles in durability. In fact, the CuNAP-treated version of the alternative has been successfully supplied to Seattle City Light, where it has been in service for over 26 years. The BPS has proven itself not just as a long-lasting solution but also as one that can stand up to some of the most aggressive environmental conditions, offering a reliable and sustainable alternative to creosote for pole preservation.</p>
 <hr>
 </div>
-<script type="text/javascript" src="js/glow.js"></script>
+<script type="text/javascript" src="glow.js"></script>
 <h5>Want to contact us? <a href="https://biotranspolesleeve.com/contact-us/">Click here</a></h5>
 
 </body>
